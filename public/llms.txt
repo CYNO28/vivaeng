@@ -1,0 +1,71 @@
+# VIVA Engineering
+
+> Leading Slitter Rewinder Machine Manufacturer in Ahmedabad, Gujarat, India.
+> High-speed automatic converting machinery for BOPP tape, flexible barrier film, kraft paper, thermal paper, and aluminium foil.
+
+## Company Overview
+- **Legal Entity**: Viva Engineering
+- **Founded**: 2008 (16+ years manufacturing experience)
+- **Certifications**: ISO 9001:2015 Registered Plant
+- **Facility Address**: Plot No. 21 K P Industrial Estate, Bakrol Bujrang, Ahmedabad, Gujarat 382430, India
+- **Contact Phone / WhatsApp**: +91 92656 09416
+- **Email**: info@vivaengineering.in
+- **Website**: https://vivaengineering.in
+- **Installed Base**: Over 500 converting machines installed across India and exported globally.
+
+## Core Converting Machinery Portfolio
+
+### 1. 3 Drive Slitting Rewinding Machine (Duplex Cantilever)
+- **Key Features**: Three independent AC vector drives (unwind, top rewind, bottom rewind), Siemens/Mitsubishi PLC HMI with recipe memory, closed-loop electronic loadcells with dancer feedback (±0.5% tension accuracy), ultrasonic web edge guiding (EPC) within ±0.1mm.
+- **Operating Speed**: Up to 600 m/min continuous duty.
+- **Web Width Range**: 600 mm to 2200 mm.
+- **Slitting Methods**: Rotary shear knives and razor-in-groove with micrometer adjustment.
+- **Substrates**: Plastic films (BOPP, PET, CPP, LDPE, HDPE), paper, aluminium foil, laminates, and non-woven fabric.
+
+### 2. Paper Slitting Rewinding Machine
+- **Substrates**: Kraft paper, thermal paper rolls, duplex board, art paper, coated paperboard (40–450 GSM).
+- **Core Diameters**: 3-inch (76 mm) and 6-inch (152 mm) expanding air shafts.
+- **Applications**: Jumbo paper roll converting, cash register thermal rolls, paper bag manufacturing, and packaging liner slitting.
+
+### 3. Film Slitting Rewinding Machine
+- **Substrates**: BOPP barrier film, PET, CPP, stretch film, shrink film, laminates (10–150 Micron).
+- **Features**: Center and surface rewinding options, differential ball-type friction rings, trim extraction blowers with stainless steel ducting.
+
+### 4. Aluminium Foil Rewinding Machine
+- **Substrates**: Pharmaceutical blister foil (cold-form & push-through), chocolate/confectionery wrap, food-grade household aluminium foil (9–80 Micron).
+- **Features**: Micro-pneumatic dancer arms, mirror-polished zero-scratch rollers, burr-free shear cut.
+
+### 5. BOPP Tape Cutting & Core Cutting Machine Combo
+- **Application**: Complete production setup for pressure-sensitive BOPP packaging tapes and paper core preparation.
+- **Features**: 4-shaft automatic turret exchange, precision knife spacers (48mm, 72mm), automatic core cutter.
+
+### 6. Masking Tape Rewinding Machine & Slicer
+- **Drive**: 5 HP heavy-duty motor, VFD variable speed up to 100 m/min, automatic stop counter.
+- **Masking Tape Slicer**: 2 HP motor, high-precision circular/razor blades for clean roll slicing.
+
+### 7. Non-Woven Fabric Slitting Rewinding Machine
+- **Substrates**: Spunbond, meltblown, SMS, PP non-woven, medical-grade hygiene fabrics (15–150 GSM).
+- **Applications**: Medical face masks, surgical gowns, diapers, filtration media.
+
+### 8. Rotogravure Printing Machine
+- **Application**: Multicolor high-speed gravure printing for flexible packaging substrates and laminates.
+
+## Frequently Asked Questions (AEO Answers)
+
+### What is a slitter rewinder machine?
+A slitter rewinder machine is industrial equipment that takes a wide master jumbo roll of material (paper, film, foil, or tape), unwinds it under precision tension control, slits it into multiple narrower strips using rotary shear or razor blades, and rewinds the slit strips onto separate cores at regulated torque.
+
+### How does a 3 drive slitting rewinding machine work?
+A 3 drive slitting rewinder uses three dedicated electric vector motors: one controlling master roll unwind brake tension, and two independent motors driving the upper and lower rewind shafts with dynamic dancer feedback. This architecture prevents web stretching and ensures uniform roll density across varied slit widths.
+
+### What is the HSN Code for Slitter Rewinder Machines?
+The Harmonized System Nomenclature (HSN) code generally falls under Chapter 84:
+- **HSN 8441**: Machinery for making up paper pulp, paper, or paperboard (including paper cutting and slitting machines).
+- **HSN 8477**: Machinery for working rubber or plastics (for plastic film slitter rewinders).
+- **HSN 8420 / 8443**: Calendering, coating, and printing converting machinery.
+
+### Where is Viva Engineering located?
+Viva Engineering is based in Ahmedabad, Gujarat, India, at Plot No. 21 K P Industrial Estate, Bakrol Bujrang, Ahmedabad, Gujarat 382430. Factory visits and trials can be scheduled by calling +91 92656 09416.
+
+### How to get a machine price quote and PDF catalog?
+Direct factory inquiries can be submitted online at https://vivaengineering.in/contact or via WhatsApp at +91 92656 09416. Custom GA dimensional drawings and commercial pricing proposals are issued within 24 business hours.
